@@ -1,6 +1,6 @@
 {% set name = "rpaths" %}
-{% set version = "0.12" %}
-{% set sha256 = "902c3552b1c826cde1eb7c88b3d85b8a74f7f57bbf3ef6c955ffdb52a1603d25" %}
+{% set version = "0.13" %}
+{% set sha256 = "fdb548e6bacc451b6f929d888cc1e79e8f94abae938c5bd69ac367f5c2f95a1c" %}
 
 package:
   name: {{ name|lower }}
